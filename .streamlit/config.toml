@@ -1,0 +1,9 @@
+[theme]
+primaryColor = "#F5C542"          # amber/gold
+backgroundColor = "#0C0E12"       # deep finance dark
+secondaryBackgroundColor = "#131722"
+textColor = "#E8EDF2"
+font = "sans serif"
+
+[client]
+toolbarMode = "minimal"
