@@ -1,0 +1,12 @@
+streamlit
+yfinance
+pandas
+pandas_ta
+numpy
+matplotlib
+feedparser
+python-dateutil
+requests
+openai
+vaderSentiment
+reportlab
